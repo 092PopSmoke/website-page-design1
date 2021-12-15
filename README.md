@@ -1,37 +1,34 @@
-# website-page-design1
-Lage en nettside ved hjelp av HTML &amp; CSS, kopiere bildene lærer har gitt oss
 # Website design
-
-En ferdig utviklet nettside hostet på Github Pages.
+Lage en nettside ved hjelp av HTML &amp; CSS, kopiere bildene lærer har gitt oss
 
 Jeg delte alle de forskjellige elementene inn i forskjellige klasser istede for å "objekt orintere de" som hadde hvert lurere hvis dette var et større prosjekt, men kom til konklusjonen at det ville ikke være nødvendige å generalisere alle classene, helle bare lage individuelle klasser for alle de forskjellige brukområdene.
 
-noen eksempler på noe jeg gjennbrukte er:
+
 ## header
 ```html
-    <header>
-        <h1> <b id="purplify">JR</b> Web Design</h1>
-        <ul>
-            <li><a href="/løsning/index.html">HOME</a></li>
-            <li><a href="/løsning/about.html">OM OSS</a></li>
-            <li><a href="/løsning/services.html">TJENESTER</a></li>
-        </ul>
-    </header>
+  <header>
+        <div class="header">
+            <h1><a href="#" class="logo"><span>SD</span> Web Design</a></h1>
+            <div class="header-right">
+                <a class="active" href="homepage.html"><b>HOME</b></a>
+                <a href="about.html"><b>OM OSS</b></a>
+                <a href="services.html"><b>TJENESTER</b></a>
+            </div>
+        </div>
+        <header>
 ```
 
 og
-## den ekte footeren 
+## footeren 
 ```html
-    <div class="lol-got-you-footer-the-other-one-is-fake-haha">
-        <p>JR Web Design. Copyright &copy; 2021</p>
-    </div>
+    <footer class="pp">
+    <p>SD Web Design, Copywrite &copy; 2021-2022 <br> <b> Laget av Nael Hassan</b></p>
+    </footer>
 ```
-
-stort sett alt annet er unikt og ikke generalisert, dette er et bevist valg.
 
 
 # Design
-Jeg har tatt full inspirasjon etter oppgaven fordi klokken er 3 på natten og jeg er ikke alltid like kreativ all tider av døgnet.
+Jeg har prøvd min best til å følge etter oppgaven fordi jeg synes det er lettest, jeg har gjort den tredje siden mens Mardin har jobbet med side 1 og Hussain side 2.
 Som kritikk til meg selv hadde jeg valgt andre farger neste gang og eventuelt satt opp en font men jeg vet ikke om det ville hvert et bonus poeng på oppgaven.
 
 Jeg valgte å lage unike design på hver av sidene og ble generelt ganske fornøyd med sidene til tross for at klokken nå nærmer seg halv 7 på morgenen.
