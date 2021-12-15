@@ -90,7 +90,7 @@
 }
 
 .pp {
-  border: 2px solid pink;
+  border: 3px solid pink;
   background-color: rgb(247, 255, 204);
   text-align: center;
   padding: 8px;
@@ -99,7 +99,7 @@
 #news {
     display: flex;
     justify-content: space-evenly;
-    border: 1px #3c3842;
+    border: 2px #3c3842;
     background-color:#3c3842;
 }
 
@@ -115,7 +115,7 @@ body {
   background-color: #3c3842;
   padding: 20px 10px;
   color: white;
-  border-bottom: 2px solid purple ;
+  border-bottom: 3px solid purple ;
 }
 
 .header a {
