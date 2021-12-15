@@ -26,10 +26,12 @@ og
     </footer>
 ```
 
-# Design
-Jeg har prøvd min best til å følge etter oppgaven fordi jeg synes det er lettest, jeg har gjort den tredje siden mens Mardin har jobbet med side 1 og Hussain side 2.
 
 
 # Problemer
 Jeg har ikke fått mange problemer, bare litt med koding men fikk hjelp av Johannes for å fikse det.
+
+# Design
+Jeg har prøvd min best til å følge etter oppgaven fordi jeg synes det er lettest, jeg har gjort den tredje siden mens Mardin har jobbet med side 1 og Hussain side 2.
+
 
