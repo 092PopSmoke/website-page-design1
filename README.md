@@ -4,7 +4,7 @@ Lage en nettside ved hjelp av HTML &amp; CSS, kopiere bildene lærer har gitt os
 Jeg delte alle de forskjellige elementene inn i forskjellige klasser.
 
 
-## header
+## Header
 ```html
   <header>
         <div class="header">
@@ -19,7 +19,7 @@ Jeg delte alle de forskjellige elementene inn i forskjellige klasser.
 ```
 
 og
-## footeren 
+## Footeren 
 ```html
     <footer class="pp">
     <p>SD Web Design, Copywrite &copy; 2021-2022 <br> <b> Laget av Nael Hassan</b></p>
