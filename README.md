@@ -1,8 +1,19 @@
 # Website design
 Lage en nettside ved hjelp av HTML &amp; CSS, kopiere bildene lærer har gitt oss
 
-Jeg delte alle de forskjellige elementene inn i forskjellige klasser.
+## Beskrivelse
 
+Oppgaven var å kode 3 sider for å lage en Nettside. For å gjøre det litt lettere siden jeg ikke får tid til å jobbe hjemme, så fordelte vi oppgavene mellom 3 av oss, slik at Mardin jobbet med Page 1, jeg jobbet med Page 3 og Hussain jobbet med Page 2.
+
+## Forventet resultat
+
+På Teams:
+website-page-design-3.png
+
+
+## Hvordan koden er satt opp
+
+Jeg delte alle de forskjellige elementene inn i forskjellige klasser.
 
 ## Header
 ```html
