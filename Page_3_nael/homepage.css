@@ -1,0 +1,167 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    color: white;
+}
+.box {
+    border: 1px solid black;
+    margin: 10px;
+    padding: 4px;
+    background-color: #3c3842;
+    color: white;
+}
+
+.main-content{
+  display:flex;
+
+}
+.containe {
+  width: 75vw;
+  padding-bottom: 12px;
+  margin: 10px;
+}
+
+.melding {
+  background-color: #3c3842;
+  color: lightgray;
+  display: flex;
+  width: auto;
+}
+
+
+.color {
+  background-color: #3c3842;
+  margin: 10px auto;
+  padding: 50px;
+  height: 460px;
+}
+
+#navnet {
+  margin-top: 20px;
+  margin-left: 4px;
+}
+
+#eposten {
+  margin-top: 22px;
+  margin-left: 14px;
+}
+
+#textarea {
+  margin-top: 23px;
+  margin-right: 9px;
+  padding-bottom: 100px;
+}
+
+#email {
+  margin-top: 20px;
+  margin-left: 450px;
+  padding: 8px;
+}
+
+#h1 {
+  margin-left: 135px;
+}
+
+.submit {
+  background-color: purple;
+  color: white;
+  padding: 7px;
+  border: none;
+}
+
+.submit:hover {
+  background-color: white;
+  color: purple;
+  cursor: pointer;
+}
+
+.button1:hover {
+  background-color: white;
+  color: purple;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: purple;
+  color: white;
+  padding: 9px;
+  border: none;
+}
+
+.pp {
+  border: 2px solid pink;
+  background-color: rgb(247, 255, 204);
+  text-align: center;
+  padding: 8px;
+}
+
+#news {
+    display: flex;
+    justify-content: space-evenly;
+    border: 1px #3c3842;
+    background-color:#3c3842;
+}
+
+* {box-sizing: border-box;}
+
+body { 
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+  overflow: hidden;
+  background-color: #3c3842;
+  padding: 20px 10px;
+  color: white;
+  border-bottom: 2px solid purple ;
+}
+
+.header a {
+  margin-left: 80px;
+  float: left;
+  color: white;
+  padding-right: 20px;
+  text-decoration: none;
+  font-size: 18px; 
+  line-height: 25px;
+  border-radius: 4px;
+}
+
+.header a.logo {
+  font-size: 25px;
+  font-weight: bold;
+  color: white;
+  margin-left: 220px;
+}
+
+span {
+  color: purple;
+}
+
+.header a:hover {
+  color: purple;
+}
+
+.header a.active {
+  color: purple;
+}
+
+.header-right {
+  float: right;
+}
+
+@media screen and (max-width: 500px) {
+  .header a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .header-right {
+    float: none;
+  }
+}
+
+/* Litt hjelp av w3schools /*
